@@ -3,7 +3,7 @@ const playerDisplay = document.querySelector("#player")
 const infoDisplay = document.querySelector("#info-display")
 const body = document.body;
 const width = 8
-
+// Hello
 const startPieces = [
     rook, knight, bishop, queen, king, bishop, knight, rook,
     pawn, pawn, pawn, pawn, pawn, pawn, pawn, pawn,
