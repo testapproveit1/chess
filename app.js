@@ -14,7 +14,8 @@ const startPieces = [
     pawn, pawn, pawn, pawn, pawn, pawn, pawn, pawn,
     rook, knight, bishop, queen, king, bishop, knight, rook,
 ]
-
+//testtest
+123123`12`12`12`
 
 function createBoard()
 {
